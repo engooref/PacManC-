@@ -1,0 +1,4 @@
+C:\Users\arman\source\repos\PacMan\Debug\PacMan.exe
+C:\Users\arman\source\repos\PacMan\Debug\PacMan.pdb
+C:\Users\arman\source\repos\engooref\PacMan\Debug\PacMan.exe
+C:\Users\arman\source\repos\engooref\PacMan\Debug\PacMan.pdb

@@ -1,0 +1,19 @@
+#ifndef APP_H_
+#define APP_H_
+
+#define MAIN_WINDOW_SCALE					(1.0/2.0)
+#define MAIN_WINDOW_WIDTH					(int)(1920*MAIN_WINDOW_SCALE)
+#define MAIN_WINDOW_HEIGHT					(int)(1080*MAIN_WINDOW_SCALE)
+#define MAIN_WINDOW_TITLE					"Pac Man"
+#define	MAIN_ANIMATION_TICK					(20)
+
+
+
+#define PADDING_GAMEAREA_X					(10)
+#define PADDING_GAMEAREA_Y					(15)
+#define GAMEAREA_SIZE_X						(int)((MAIN_WINDOW_WIDTH/2)-(2.0*PADDING_GAMEAREA_X))
+#define GAMEAREA_SIZE_Y						(int)(MAIN_WINDOW_HEIGHT-(2.0*PADDING_GAMEAREA_Y))
+
+
+#endif // !APP_H_
+

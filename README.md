@@ -1,1 +1,1 @@
-# PacManC-
+# PacMan
